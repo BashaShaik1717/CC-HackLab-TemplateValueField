@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>412e2789dbda22002e38711ebf9619c9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_dmv_vehicle">
+    <x_dmv_vehicle action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collector>false</collector>
+        <display_value>1963 utune gacmenu</display_value>
+        <last_inspection>2015-03-16</last_inspection>
+        <last_inspection_notice_sent/>
+        <make>utune</make>
+        <model>gacmenu</model>
+        <owner display_value="Jacinto Gawron">02826bf03710200044e0bfc8bcbe5d76</owner>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-05 02:07:12</sys_created_on>
+        <sys_id>412e2789dbda22002e38711ebf9619c9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-10-05 21:56:44</sys_updated_on>
+        <vin>Il#4#O[hb7zYY)fQxG79b*Xxldy)1P!S</vin>
+        <year>1963</year>
+    </x_dmv_vehicle>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-27 23:51:27</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>cc378b8067113200d1ba5bb557415ac3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1963 utune gacmenu</sys_name>
+        <sys_package display_value="DMV" source="x_dmv">a4440b0067113200d1ba5bb557415a96</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DMV">a4440b0067113200d1ba5bb557415a96</sys_scope>
+        <sys_update_name>sys_metadata_link_cc378b8067113200d1ba5bb557415ac3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-27 23:51:27</sys_updated_on>
+        <tablename>x_dmv_vehicle</tablename>
+    </sys_metadata_link>
+</record_update>

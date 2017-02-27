@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>592e2789dbda22002e38711ebf9619d1</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_dmv_vehicle">
+    <x_dmv_vehicle action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collector>false</collector>
+        <display_value>2002 woniso jikiwcok</display_value>
+        <last_inspection>2013-10-14</last_inspection>
+        <last_inspection_notice_sent/>
+        <make>woniso</make>
+        <model>jikiwcok</model>
+        <owner display_value="Lana Garrigus">8e826bf03710200044e0bfc8bcbe5d62</owner>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-10-05 02:07:12</sys_created_on>
+        <sys_id>592e2789dbda22002e38711ebf9619d1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-10-05 21:56:44</sys_updated_on>
+        <vin>t17FvlNoeVFTNDl[aqBqlIZm2Ob!mj5[</vin>
+        <year>2002</year>
+    </x_dmv_vehicle>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-27 23:51:28</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a037cb8067113200d1ba5bb557415a34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2002 woniso jikiwcok</sys_name>
+        <sys_package display_value="DMV" source="x_dmv">a4440b0067113200d1ba5bb557415a96</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DMV">a4440b0067113200d1ba5bb557415a96</sys_scope>
+        <sys_update_name>sys_metadata_link_a037cb8067113200d1ba5bb557415a34</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-27 23:51:28</sys_updated_on>
+        <tablename>x_dmv_vehicle</tablename>
+    </sys_metadata_link>
+</record_update>
